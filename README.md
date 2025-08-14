@@ -11,6 +11,15 @@ The **GitHub Final Project** is designed to:
 - Manage project files and documentation
 - Prepare for collaboration
 
-
+ A calculator that calculates simple interest given principal,
+ annual rate of interest and time period in years.
+ Input:
+ p, principal amount
+ t, time period
+ in years r,
+ annual rate of
+ interest
+ Output:
+ simple interest = p*t*r
 # 📜 License
 This project is licensed under the **Apache License 2.0** – see the [LICENSE](LICENSE) file for details.
